@@ -6,7 +6,7 @@
  - In this directory execute 'npm install' to install only one dependency used for testing, the mocha JS test framework.
 
 ## Running Tests:
- - Execute 'npm test' to run the tests. This repo assumes that the **node** binary is accessable in the current path.
+ - Execute 'npm test' to run the tests. This repo assumes that the **node** binary is accessable from the current path.
 
 ## Running
  - Execute **'npm start'** to run the program with input from the command line, will have to issue Ctrl-D or Ctrl-C to finish typing.
